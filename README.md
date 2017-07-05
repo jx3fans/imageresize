@@ -13,8 +13,8 @@
 * 编译参数
 > ./configure --prefix=/home/appuser/openresty
 * 新增环境变量
-> export OPENRESTY_HOME=/home/emall/openresty
-PATH=$OPENRESTY_HOME/bin:$OPENRESTY_HOME/nginx/sbin:$PATH
+> * export OPENRESTY_HOME=/home/emall/openresty
+> * PATH=$OPENRESTY_HOME/bin:$OPENRESTY_HOME/nginx/sbin:$PATH
 
 ## 安装GraphicsMagick
 * 下载源码
